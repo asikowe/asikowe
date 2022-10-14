@@ -25,6 +25,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Repository stats
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=asikowe&show_icons=true&include_all_commits=true&hide_rank=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=asikowe&hide=stars&hide_rank=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asikowe&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
