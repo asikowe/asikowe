@@ -5,7 +5,7 @@
  So far my trip took me to the lands of:
  - :scroll: automation of ingest of over [500 Papyri](https://digital.bodleian.ox.ac.uk/collections/greek-and-latin-papyri/) for University of Oxford with Python, csv, JSON and XML manipulation;
  - :snake: finishing Introduction to Python & Apps course by [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/) as highly commended candidate;
- - :plane: co-creating [GoPacking](https://github.com/asikowe/packing-list-project) project as an end app for [CFGDegree](https://codefirstgirls.com/courses/cfgdegree/) (my role: creating Flask backend, connecting frontend with backend, creating README);
+ - :earth_africa: co-creating [GoPacking](https://github.com/asikowe/packing-list-project) project as an end app for [CFGDegree](https://codefirstgirls.com/courses/cfgdegree/) (my role: creating Flask backend, connecting frontend with backend, creating README);
  - :plate_with_cutlery: co-creating [Thrifty Cook](https://github.com/asikowe/thrifty-cook) project as an end app for [+Masters](https://codefirstgirls.com/courses/masters/) (my role: setting up query based API call, Redux Store and Async Storage).
 
 ### Connect with me
