@@ -1,3 +1,5 @@
+![Logo](https://github.com/asikowe/asikowe/blob/main/undraw_adventure.png)
+
 # Well hello there, I'm Joanna. Welcome to my GitHub page.
 
  :sailboat: I'm a freshly converted explorer that decided to embark on a journey through the vast spaces of IT at the beginning of 2022. 
